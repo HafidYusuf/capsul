@@ -1,0 +1,34 @@
+:root {
+  --back-color: #000;
+  --primary-color: #fff;
+}
+body {
+  background-color: var(--back-color);
+  color: var(--primary-color);
+}
+
+.the-collection::-webkit-scrollbar {
+  height: 8px;
+  overflow: auto;
+}
+
+.the-collection::-webkit-scrollbar-track {
+  background: rgba(0, 0, 0, 0);
+}
+
+.the-collection::-webkit-scrollbar-thumb {
+  background: rgba(120, 120, 120, 0.5);
+  height: 10px;
+  border-radius: 10px;
+}
+
+.overlaybelakangvideo {
+  opacity: 0;
+}
+.price, .price span {
+  color: white!important;
+}
+
+.product-wide:hover .desc .price, .product-wide:hover .desc .price span {
+  color: white!important;
+}
