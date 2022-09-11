@@ -87,6 +87,13 @@ button:hover {
   .cls-4 {
     stroke: black!important;
   }
+  .cls-5 {
+    stroke: black!important;
+    fill: rgba(206, 255, 0, 1)!important;
+  }
+  .cls-6 {
+    stop-color: rgba(206, 255, 0, 1)!important;
+  }
   .close-filter {
     fill: black!important;
   }
