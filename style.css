@@ -6,7 +6,7 @@
   src: url(fonts/Nexa-Light.otf);
 }
 
-@font-face {font-family: "Nexa"; src: url("http://fonts.cdnfonts.com/css/nexa-bold"); }
+@font-face {font-family: "Nexa"; src: url("https://fonts.cdnfonts.com/s/16221/NexaBold.woff"); }
 
 .noise {
   z-index: -1;
