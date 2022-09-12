@@ -6,7 +6,7 @@
   src: url(fonts/Nexa-Light.otf);
 }
 
-@font-face {font-family: "Nexa-Bold"; src: url("http://fonts.cdnfonts.com/css/nexa-bold?styles=29913"); }
+@font-face {font-family: "Nexa"; src: url("http://fonts.cdnfonts.com/css/nexa-bold"); }
 
 .noise {
   z-index: -1;
@@ -87,7 +87,7 @@ h5,
 h6,
 .quotes,
 .logo {
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
 }
 
@@ -208,7 +208,7 @@ h2 {
   color: white;
   letter-spacing: 2px;
   background: black;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   z-index: 99999;
   -webkit-transition: all 1s cubic-bezier(0, 0.55, 0.45, 1);
@@ -221,7 +221,7 @@ h2 {
 }
 
 .spotify-close .spotify-close-word {
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   -webkit-animation: close 2s linear infinite;
   animation: close 2s linear infinite;
@@ -388,7 +388,7 @@ nav .right-side .nav-icon {
 
 .headline-button {
   background: #fc5a1a;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   font-size: 14pt;
   padding: 20px 40px;
@@ -488,7 +488,7 @@ video {
 .quotes {
   position: relative;
   color: white;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   font-size: 32pt;
   width: 600px;
@@ -532,7 +532,7 @@ video {
   padding-right: 10px;
   color: #fc5a1a;
   font-size: 24pt;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
 }
 
@@ -564,7 +564,7 @@ video {
 }
 
 .join {
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   font-size: 38pt;
   color: #ffffff;
@@ -577,7 +577,7 @@ video {
 }
 
 .join span {
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   font-size: 30pt;
 }
@@ -603,7 +603,7 @@ form input {
 }
 
 form button {
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   border: none;
   background: transparent;
@@ -886,7 +886,7 @@ form button:hover {
   position: absolute;
   top: 50%;
   color: #fc5a1a;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   margin: 0 auto;
   left: 50%;
@@ -1163,7 +1163,7 @@ form button:hover {
 }
 
 .about .stuff span {
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
 }
 
@@ -1233,7 +1233,7 @@ form button:hover {
 .overlay-navigation .menu a {
   display: block;
   color: white;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   text-decoration: none;
   font-size: 24pt;
@@ -1697,7 +1697,7 @@ form button:hover {
 }
 
 .cart-product .cart-description .cart-price {
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   font-size: 10pt;
 }
@@ -1718,7 +1718,7 @@ form button:hover {
   padding-top: 12px;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
 }
 
@@ -1745,7 +1745,7 @@ form button:hover {
 .cart-total p {
   float: right;
   font-size: 24pt;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   vertical-align: baseline;
   -webkit-transform: translateY(-12px);
@@ -1756,7 +1756,7 @@ form button:hover {
   width: 100%;
   background: #fc5a1a;
   color: black;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   position: absolute;
   bottom: 0px;
@@ -1777,7 +1777,7 @@ form button:hover {
   outline: none;
   background: transparent;
   color: white;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   border-right: none !important;
   border-left: none !important;
@@ -1827,7 +1827,7 @@ form button:hover {
   outline: none;
   background: transparent;
   color: white;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   border-right: none !important;
   border-left: none !important;
@@ -1924,7 +1924,7 @@ form button:hover {
     margin-bottom: 10px;
   }
   .cart-product .cart-description .cart-price {
-    font-family: Nexa-Bold;
+    font-family: Nexa;
     font-weight: 700;
   }
   .cart-product .cart-description .cart-size {
@@ -2013,7 +2013,7 @@ form button:hover {
 }
 
 .detail-description .price {
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   font-size: 18pt;
   margin-bottom: 20px;
@@ -2100,7 +2100,7 @@ form button:hover {
   margin-top: 50px;
   text-align: center;
   font-size: 16pt;
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
   padding: 15px 0px;
   opacity: 1;
@@ -2552,7 +2552,7 @@ form button:hover {
   background-position: 50% 40%!important;
 }
 .bld {
-  font-family: Nexa-Bold;
+  font-family: Nexa;
   font-weight: 700;
 }
 
