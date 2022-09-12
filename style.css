@@ -1,13 +1,12 @@
 @charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Overpass&display=swap');
-@import url(//db.onlinewebfonts.com/c/c9f309b3d47969ecac64a77a6c672594?family=Nexa+Bold);
 @font-face {
   font-family: Nexa;
   src: url(fonts/Nexa-Light.otf);
 }
 
-@font-face {font-family: "Nexa-Bold"; src: url("//db.onlinewebfonts.com/t/c9f309b3d47969ecac64a77a6c672594.eot"); src: url("//db.onlinewebfonts.com/t/c9f309b3d47969ecac64a77a6c672594.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/c9f309b3d47969ecac64a77a6c672594.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/c9f309b3d47969ecac64a77a6c672594.woff") format("woff"), url("//db.onlinewebfonts.com/t/c9f309b3d47969ecac64a77a6c672594.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/c9f309b3d47969ecac64a77a6c672594.svg#Nexa Bold") format("svg"); }
+@font-face {font-family: "Nexa-Bold"; src: url("http://fonts.cdnfonts.com/css/nexa-bold?styles=29913"); }
 
 .noise {
   z-index: -1;
