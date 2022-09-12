@@ -88,6 +88,7 @@ h6,
 .quotes,
 .logo {
   font-family: Nexa-Bold;
+  font-weight: 700;
 }
 
 p,
@@ -208,6 +209,7 @@ h2 {
   letter-spacing: 2px;
   background: black;
   font-family: Nexa-Bold;
+  font-weight: 700;
   z-index: 99999;
   -webkit-transition: all 1s cubic-bezier(0, 0.55, 0.45, 1);
   transition: all 1s cubic-bezier(0, 0.55, 0.45, 1);
@@ -220,6 +222,7 @@ h2 {
 
 .spotify-close .spotify-close-word {
   font-family: Nexa-Bold;
+  font-weight: 700;
   -webkit-animation: close 2s linear infinite;
   animation: close 2s linear infinite;
   width: 100vh;
@@ -386,6 +389,7 @@ nav .right-side .nav-icon {
 .headline-button {
   background: #fc5a1a;
   font-family: Nexa-Bold;
+  font-weight: 700;
   font-size: 14pt;
   padding: 20px 40px;
   text-align: center;
@@ -485,6 +489,7 @@ video {
   position: relative;
   color: white;
   font-family: Nexa-Bold;
+  font-weight: 700;
   font-size: 32pt;
   width: 600px;
   line-height: 140%;
@@ -528,6 +533,7 @@ video {
   color: #fc5a1a;
   font-size: 24pt;
   font-family: Nexa-Bold;
+  font-weight: 700;
 }
 
 @-webkit-keyframes marquee {
@@ -559,6 +565,7 @@ video {
 
 .join {
   font-family: Nexa-Bold;
+  font-weight: 700;
   font-size: 38pt;
   color: #ffffff;
   position: absolute;
@@ -571,6 +578,7 @@ video {
 
 .join span {
   font-family: Nexa-Bold;
+  font-weight: 700;
   font-size: 30pt;
 }
 
@@ -596,6 +604,7 @@ form input {
 
 form button {
   font-family: Nexa-Bold;
+  font-weight: 700;
   border: none;
   background: transparent;
   border-top: solid 2px #ffffff;
@@ -878,6 +887,7 @@ form button:hover {
   top: 50%;
   color: #fc5a1a;
   font-family: Nexa-Bold;
+  font-weight: 700;
   margin: 0 auto;
   left: 50%;
   -webkit-transform: translate(-50%, -50%);
@@ -1154,6 +1164,7 @@ form button:hover {
 
 .about .stuff span {
   font-family: Nexa-Bold;
+  font-weight: 700;
 }
 
 .about .stuff span::after {
@@ -1223,6 +1234,7 @@ form button:hover {
   display: block;
   color: white;
   font-family: Nexa-Bold;
+  font-weight: 700;
   text-decoration: none;
   font-size: 24pt;
   margin-top: 5px;
@@ -1686,6 +1698,7 @@ form button:hover {
 
 .cart-product .cart-description .cart-price {
   font-family: Nexa-Bold;
+  font-weight: 700;
   font-size: 10pt;
 }
 
@@ -1706,6 +1719,7 @@ form button:hover {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
   font-family: Nexa-Bold;
+  font-weight: 700;
 }
 
 .cart-total {
@@ -1732,6 +1746,7 @@ form button:hover {
   float: right;
   font-size: 24pt;
   font-family: Nexa-Bold;
+  font-weight: 700;
   vertical-align: baseline;
   -webkit-transform: translateY(-12px);
   transform: translateY(-12px);
@@ -1742,6 +1757,7 @@ form button:hover {
   background: #fc5a1a;
   color: black;
   font-family: Nexa-Bold;
+  font-weight: 700;
   position: absolute;
   bottom: 0px;
   margin-left: -30px;
@@ -1762,6 +1778,7 @@ form button:hover {
   background: transparent;
   color: white;
   font-family: Nexa-Bold;
+  font-weight: 700;
   border-right: none !important;
   border-left: none !important;
 }
@@ -1811,6 +1828,7 @@ form button:hover {
   background: transparent;
   color: white;
   font-family: Nexa-Bold;
+  font-weight: 700;
   border-right: none !important;
   border-left: none !important;
 }
@@ -1907,6 +1925,7 @@ form button:hover {
   }
   .cart-product .cart-description .cart-price {
     font-family: Nexa-Bold;
+    font-weight: 700;
   }
   .cart-product .cart-description .cart-size {
     margin-bottom: 15px;
@@ -1995,6 +2014,7 @@ form button:hover {
 
 .detail-description .price {
   font-family: Nexa-Bold;
+  font-weight: 700;
   font-size: 18pt;
   margin-bottom: 20px;
 }
@@ -2081,6 +2101,7 @@ form button:hover {
   text-align: center;
   font-size: 16pt;
   font-family: Nexa-Bold;
+  font-weight: 700;
   padding: 15px 0px;
   opacity: 1;
   transform: translate(0px, 0px);
@@ -2532,6 +2553,7 @@ form button:hover {
 }
 .bld {
   font-family: Nexa-Bold;
+  font-weight: 700;
 }
 
 .filter-box{
