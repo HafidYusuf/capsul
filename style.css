@@ -356,10 +356,42 @@ nav .logo {
 .inikb {
   -webkit-transform: translateY(470px)!important;
   transform: translateY(470px)!important;
+  fill: blue!important;
 }
 .inic {
   -webkit-transform: translateY(470px)!important;
   transform: translateY(470px)!important;
+  fill: purple!important;
+}
+.inia {
+  -webkit-transform: translateY(470px)!important;
+  transform: translateY(470px)!important;
+  fill: aqua!important;
+}
+.inip {
+  -webkit-transform: translateY(470px)!important;
+  transform: translateY(470px)!important;
+  fill: crimson!important;
+}
+.inis {
+  -webkit-transform: translateY(470px)!important;
+  transform: translateY(470px)!important;
+  fill: red!important;
+}
+.iniu {
+  -webkit-transform: translateY(470px)!important;
+  transform: translateY(470px)!important;
+  fill: green!important;
+}
+.inil {
+  -webkit-transform: translateY(470px)!important;
+  transform: translateY(470px)!important;
+  fill: grey!important;
+}
+.inikt {
+  -webkit-transform: translateY(470px)!important;
+  transform: translateY(470px)!important;
+  fill: yellow!important;
 }
 
 nav .forabout {
