@@ -390,20 +390,20 @@ nav .logo-sticky .iniu {
 nav .logo-sticky .inic {
 }
 nav .logo-sticky .inip {
-  -webkit-transform: translateX(-10px);
-  transform: translateX(-10px);
+  -webkit-transform: translateX(-30px);
+  transform: translateX(-30px);
 }
 nav .logo-sticky .inis {
-  -webkit-transform: translateX(-10px);
-  transform: translateX(-10px);
+  -webkit-transform: translateX(-30px);
+  transform: translateX(-30px);
 }
 nav .logo-sticky .inil {
-  -webkit-transform: translateX(-20px);
-  transform: translateX(-20px);
+  -webkit-transform: translateX(-60px);
+  transform: translateX(-60px);
 }
 nav .logo-sticky .inikt {
-  -webkit-transform: translateX(-20px);
-  transform: translateX(-20px);
+  -webkit-transform: translateX(-60px);
+  transform: translateX(-60px);
 }
 
 nav .forabout {
