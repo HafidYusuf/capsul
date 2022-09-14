@@ -381,6 +381,16 @@ nav .logo {
   fill: brown!important;
 }
 
+nav .logo-sticky {
+.inia {
+  opacity: 0!important;
+}
+.iniu {
+  opacity: 0!important;
+}
+  
+}
+
 nav .forabout {
   top: 50vh;
 }
