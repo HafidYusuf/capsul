@@ -352,7 +352,7 @@ nav .logo {
   -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
   transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
-
+/*
 .inikb {
   fill: blue!important;
 }
@@ -380,7 +380,7 @@ nav .logo {
 .inim {
   fill: brown!important;
 }
-
+*/
 nav .logo-sticky .inia {
   opacity: 0!important;
 }
