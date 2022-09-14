@@ -388,12 +388,12 @@ nav .logo-sticky .iniu {
   opacity: 0!important;
 }
 nav .logo-sticky .inip {
-  -webkit-transform: translateX(-100px)!important;
-  transform: translateX(-100px)!important;
+  -webkit-transform: translateX(-90px)!important;
+  transform: translateX(-90px)!important;
 }
 nav .logo-sticky .inis {
-  -webkit-transform: translateX(-100px)!important;
-  transform: translateX(-100px)!important;
+  -webkit-transform: translateX(-90px)!important;
+  transform: translateX(-90px)!important;
 }
 nav .logo-sticky .inil {
   -webkit-transform: translateX(-170px)!important;
