@@ -383,29 +383,43 @@ nav .logo {
 */
 nav .logo-sticky .inia {
   opacity: 0!important;
+  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 nav .logo-sticky .iniu {
   opacity: 0!important;
+  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 nav .logo-sticky .inip {
   -webkit-transform: translateX(-90px)!important;
   transform: translateX(-90px)!important;
+  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 nav .logo-sticky .inis {
   -webkit-transform: translateX(-90px)!important;
   transform: translateX(-90px)!important;
+  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 nav .logo-sticky .inil {
   -webkit-transform: translateX(-170px)!important;
   transform: translateX(-170px)!important;
+  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 nav .logo-sticky .inikt {
   -webkit-transform: translateX(-170px)!important;
   transform: translateX(-170px)!important;
+  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 nav .logo-sticky .inim {
   -webkit-transform: translateX(-170px)!important;
   transform: translateX(-170px)!important;
+  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 
 nav .forabout {
