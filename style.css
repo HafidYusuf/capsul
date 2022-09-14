@@ -354,8 +354,12 @@ nav .logo {
 }
 
 .inikb {
-  -webkit-transform: translateY(470px);
-  transform: translateY(470px);
+  -webkit-transform: translateY(470px)!important;
+  transform: translateY(470px)!important;
+}
+.inic {
+  -webkit-transform: translateY(470px)!important;
+  transform: translateY(470px)!important;
 }
 
 nav .forabout {
