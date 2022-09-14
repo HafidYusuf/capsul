@@ -381,14 +381,11 @@ nav .logo {
   fill: brown!important;
 }
 
-nav .logo-sticky {
-.inia {
+nav .logo-sticky .inia {
   opacity: 0!important;
 }
-.iniu {
+nav .logo-sticky .iniu {
   opacity: 0!important;
-}
-  
 }
 
 nav .forabout {
