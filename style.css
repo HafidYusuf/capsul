@@ -387,23 +387,21 @@ nav .logo-sticky .inia {
 nav .logo-sticky .iniu {
   opacity: 0!important;
 }
-nav .logo-sticky .inic {
-}
 nav .logo-sticky .inip {
-  -webkit-transform: translateX(-30px);
-  transform: translateX(-30px);
+  -webkit-transform: translateX(-30px)!important;
+  transform: translateX(-30px)!important;
 }
 nav .logo-sticky .inis {
-  -webkit-transform: translateX(-30px);
-  transform: translateX(-30px);
+  -webkit-transform: translateX(-30px)!important;
+  transform: translateX(-30px)!important;
 }
 nav .logo-sticky .inil {
-  -webkit-transform: translateX(-60px);
-  transform: translateX(-60px);
+  -webkit-transform: translateX(-60px)!important;
+  transform: translateX(-60px)!important;
 }
 nav .logo-sticky .inikt {
-  -webkit-transform: translateX(-60px);
-  transform: translateX(-60px);
+  -webkit-transform: translateX(-60px)!important;
+  transform: translateX(-60px)!important;
 }
 
 nav .forabout {
