@@ -388,20 +388,20 @@ nav .logo-sticky .iniu {
   opacity: 0!important;
 }
 nav .logo-sticky .inip {
-  -webkit-transform: translateX(-30px)!important;
-  transform: translateX(-30px)!important;
+  -webkit-transform: translateX(-300px)!important;
+  transform: translateX(-300px)!important;
 }
 nav .logo-sticky .inis {
-  -webkit-transform: translateX(-30px)!important;
-  transform: translateX(-30px)!important;
+  -webkit-transform: translateX(-300px)!important;
+  transform: translateX(-300px)!important;
 }
 nav .logo-sticky .inil {
-  -webkit-transform: translateX(-60px)!important;
-  transform: translateX(-60px)!important;
+  -webkit-transform: translateX(-600px)!important;
+  transform: translateX(-600px)!important;
 }
 nav .logo-sticky .inikt {
   -webkit-transform: translateX(-60px)!important;
-  transform: translateX(-60px)!important;
+  transform: translateX(-600px)!important;
 }
 
 nav .forabout {
