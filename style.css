@@ -354,43 +354,27 @@ nav .logo {
 }
 
 .inikb {
-  -webkit-transform: translateY(10px)!important;
-  transform: translateY(10px)!important;
   fill: blue!important;
 }
 .inic {
-  -webkit-transform: translateY(20px)!important;
-  transform: translateY(20px)!important;
   fill: purple!important;
 }
 .inia {
-  -webkit-transform: translateY(30px)!important;
-  transform: translateY(30px)!important;
   fill: aqua!important;
 }
 .inip {
-  -webkit-transform: translateY(30px)!important;
-  transform: translateY(30px)!important;
   fill: crimson!important;
 }
 .inis {
-  -webkit-transform: translateY(40px)!important;
-  transform: translateY(40px)!important;
   fill: red!important;
 }
 .iniu {
-  -webkit-transform: translateY(50px)!important;
-  transform: translateY(50px)!important;
   fill: green!important;
 }
 .inil {
-  -webkit-transform: translateY(60px)!important;
-  transform: translateY(60px)!important;
   fill: grey!important;
 }
 .inikt {
-  -webkit-transform: translateY(70px)!important;
-  transform: translateY(70px)!important;
   fill: yellow!important;
 }
 
