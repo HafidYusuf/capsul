@@ -388,24 +388,24 @@ nav .logo-sticky .iniu {
   opacity: 0!important;
 }
 nav .logo-sticky .inip {
-  -webkit-transform: translateX(-50px)!important;
-  transform: translateX(-50px)!important;
+  -webkit-transform: translateX(-80px)!important;
+  transform: translateX(-80px)!important;
 }
 nav .logo-sticky .inis {
-  -webkit-transform: translateX(-50px)!important;
-  transform: translateX(-50px)!important;
+  -webkit-transform: translateX(-80px)!important;
+  transform: translateX(-80px)!important;
 }
 nav .logo-sticky .inil {
-  -webkit-transform: translateX(-100px)!important;
-  transform: translateX(-100px)!important;
+  -webkit-transform: translateX(-130px)!important;
+  transform: translateX(-130px)!important;
 }
 nav .logo-sticky .inikt {
-  -webkit-transform: translateX(-60px)!important;
-  transform: translateX(-100px)!important;
+  -webkit-transform: translateX(-130px)!important;
+  transform: translateX(-130px)!important;
 }
 nav .logo-sticky .inim {
-  -webkit-transform: translateX(-60px)!important;
-  transform: translateX(-100px)!important;
+  -webkit-transform: translateX(-130px)!important;
+  transform: translateX(-130px)!important;
 }
 
 nav .forabout {
