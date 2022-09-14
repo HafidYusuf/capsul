@@ -353,6 +353,11 @@ nav .logo {
   transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 
+.inikb {
+  -webkit-transform: translateY(470px);
+  transform: translateY(470px);
+}
+
 nav .forabout {
   top: 50vh;
 }
