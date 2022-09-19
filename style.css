@@ -33,6 +33,7 @@
 }
 .description table tr td {
   border: solid;
+  text-align: center;
 }
 
 html {
