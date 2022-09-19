@@ -28,6 +28,9 @@
   outline: none;
 }
 
+.description table {
+  border-collapse: collapse;
+}
 .description table tr td {
   border: solid;
 }
