@@ -28,6 +28,10 @@
   outline: none;
 }
 
+.description table tr td {
+  border: solid;
+}
+
 html {
   scroll-behavior: smooth;
   height: 100%;
