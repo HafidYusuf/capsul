@@ -723,6 +723,10 @@ form button:hover {
   opacity: 0.5;
 }
 
+.footer {
+  overflow: hidden;
+}
+
 .footer-link a {
   display: block;
   text-decoration: none;
