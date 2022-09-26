@@ -2354,6 +2354,117 @@ form button:hover {
   height: 24px;
 }
 
+
+/* Secsub */
+.secsub {
+  position: fixed;
+  z-index: 999;
+  color: #000;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+  width: 700px;
+  height: 500px;
+  background-color: #fff;
+  overflow-x: hidden;
+  z-index: 9999999999999;
+}
+.secsub.active {
+  display: flex;
+}
+@media screen and (max-width: 900px) {
+  .secsub {
+    width: 90%;
+  }
+}
+.secsub .hero {
+  width: 375px;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+}
+@media screen and (max-width: 900px) {
+  .secsub .hero {
+    display: none;
+  }
+}
+.secsub .description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 3.5em;
+}
+@media screen and (max-width: 350px) {
+  .secsub .description {
+    padding: 12pt;
+  }
+  .secsub .description .formsubs h2 {
+    font-size: 16pt;
+  }
+  .secsub .description .formsubs p {
+    font-size: 12pt;
+  }
+}
+.secsub .description .formsubs {
+  display: flex;
+  flex-direction: column;
+  position: static !important;
+  transform: none !important;
+}
+@media screen and (max-width: 900px) {
+  .secsub .description .formsubs {
+    text-align: center;
+  }
+}
+.secsub .description .formsubs h2 {
+  font-weight: 700;
+  font-size: 18pt;
+  margin: 0 0 24px;
+  color: #000;
+}
+.secsub .description .formsubs p {
+  margin: 0 0 56px;
+  font-size: 12pt;
+  font-weight: 300;
+  color: #000;
+}
+@media screen and (max-width: 900px) {
+  .secsub .description .formsubs p {
+    margin: 0 0 32px;
+  }
+}
+.secsub .description .formsubs input[type="email"] {
+  margin: 0 0 32px;
+  font-size: 12pt;
+  border: none;
+  border-bottom: 2px solid #000;
+  background-color: transparent;
+  color: #000;
+  padding-bottom: 8px;
+  width: 100%;
+}
+.secsub .description .subs-button-submit {
+  background-color: #fc5a1a;
+  color: #000;
+  border: none;
+  font-size: 12pt;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  width: 100%;
+}
+.secsub .close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 24px;
+}
+.secsub .closeicon {
+  width: 24px;
+  height: 24px;
+}
+
 /* Custom Page */
 .custom-page {
   position: relative;
