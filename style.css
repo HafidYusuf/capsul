@@ -2395,7 +2395,7 @@ form button:hover {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  padding: 3.5em;
+  padding: 3em;
 }
 @media screen and (max-width: 350px) {
   .secsub .description {
