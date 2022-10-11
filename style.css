@@ -2424,12 +2424,14 @@ form button:hover {
   font-size: 18pt;
   margin: 0 0 24px;
   color: #000;
+  text-align: center;
 }
 .secsub .description .formsubs p {
   margin: 0 0 20px;
   font-size: 12pt;
   font-weight: 300;
   color: #000;
+  text-align: center;
 }
 @media screen and (max-width: 900px) {
   .secsub .description .formsubs p {
