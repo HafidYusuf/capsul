@@ -9,16 +9,16 @@ body {
   /*transition: all 1s ease-out;*/
 }
 nav {background: rgb(206,255,0);
-  background: -moz-linear-gradient(0deg, rgba(206,255,0,0) 0%, rgba(206,255,0,0) 50%, rgba(206,255,0,1) 75%, rgba(206,255,0,1) 100%);
-  background: -webkit-linear-gradient(0deg, rgba(206,255,0,0) 0%, rgba(206,255,0,0) 50%, rgba(206,255,0,1) 75%, rgba(206,255,0,1) 100%);
-  background: linear-gradient(0deg, rgba(206,255,0,0) 0%, rgba(206,255,0,0) 50%, rgba(206,255,0,1) 75%, rgba(206,255,0,1) 100%);
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ceff00",endColorstr="#ceff00",GradientType=1);
+  background: -moz-linear-gradient(0deg, rgba(170, 192, 173, 0) 0%, rgba(170, 192, 173, 0) 50%, rgba(170, 192, 173, 1) 75%, rgba(170, 192, 173, 1) 100%);
+  background: -webkit-linear-gradient(0deg, rgba(170, 192, 173, 0) 0%, rgba(170, 192, 173, 0) 50%, rgba(170, 192, 173, 1) 75%, rgba(170, 192, 173, 1) 100%);
+  background: linear-gradient(0deg, rgba(170, 192, 173, 0) 0%, rgba(170, 192, 173, 0) 50%, rgba(170, 192, 173, 1) 75%, rgba(170, 192, 173, 1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="rgba(170, 192, 173, 1)",endColorstr="rgba(170, 192, 173, 1)",GradientType=1);
   background-size: 100% 200%;
   background-position: 0% 100%;
 }
 
 .gradient-blocker {
-    background: linear-gradient(180deg, rgba(206, 255, 0, 0) 0%, rgba(206, 255, 0, 1) 50%);
+    background: linear-gradient(180deg, rgba(170, 192, 173, 0) 0%, rgba(170, 192, 173, 1) 50%);
 }
 
 h1, .name, .price, .price span, .see, .marquee-scrolling, .product-more p, .join, button, .footer-link a, .copyright p {
@@ -40,7 +40,7 @@ h1::before {
       background: black;
 }
 .product-more:hover p {
-    color: rgba(206, 255, 0, 1)!important;
+    color: rgba(170, 192, 173, 1)!important;
     text-decoration: underline;
 }
 
@@ -53,7 +53,7 @@ h1::before {
     background: black;
 }
 .marquee-container:hover .marquee-scrolling {
-    color: rgba(206, 255, 0, 1)!important;
+    color: rgba(170, 192, 173, 1)!important;
 }
 
 input {
@@ -69,7 +69,7 @@ button {
 }
 button:hover {
       background: black!important;
-      color: rgba(206, 255, 0, 1)!important;
+      color: rgba(170, 192, 173, 1)!important;
   }
 
 /*logo color*/
@@ -89,10 +89,10 @@ button:hover {
   }
   .cls-5 {
     stroke: black!important;
-    fill: rgba(206, 255, 0, 1)!important;
+    fill: rgba(170, 192, 173, 1)!important;
   }
   .cls-6 {
-    stop-color: rgba(206, 255, 0, 1)!important;
+    stop-color: rgba(170, 192, 173, 1)!important;
   }
   .close-filter {
     fill: black!important;
@@ -129,7 +129,7 @@ button:hover {
   border: solid 2px black;
 }
 .detail-description input[type=radio]:checked + label {
-  color: rgba(206, 255, 0, 1);
+  color: rgba(170, 192, 173, 1);
   background: black;
 }
 #input-number, #input-number-decrement, #input-number-increment {
@@ -143,13 +143,13 @@ button:hover {
   border-left: none
 }
 .add-to-cart {
-  color: rgba(206, 255, 0, 1);
+  color: rgba(170, 192, 173, 1);
   background: black;
 }
 
 
 .overlay-navigation {
-  background: rgba(206, 255, 0, 1);
+  background: rgba(170, 192, 173, 1);
 }
 .overlay-navigation .menu a {
   color: black;
@@ -197,7 +197,7 @@ button:hover {
 
 
 .select-selected {
-  background-color: #ceff00;
+  background-color: rgba(170, 192, 173, 1);
   border: 1px solid #000;
 }
 
@@ -214,7 +214,7 @@ button:hover {
 }
 
 .select-items {
-  background-color: #ceff00;
+  background-color: rgba(170, 192, 173, 1);
   box-shadow: -5px 5px 20px -10px rgba(0,0,0,0.2);
 }
 
@@ -227,12 +227,12 @@ button:hover {
 @media screen and (max-width: 560px) {
 
   .filteringcss {
-    background-color: #ceff00;
+    background-color: rgba(170, 192, 173, 1);
   }
 
 }
 .open-filter {
-  background: #ceff00;
+  background: rgba(170, 192, 173, 1);
 }
 
 
