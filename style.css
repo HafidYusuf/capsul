@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: Nexa-Bold;
-  src: url({{ "Nexa-Bold.woff" | asset_url }}) format("woff");
+  src: url(Nexa-Bold.woff2);
 }
 
 .noise {
