@@ -6,11 +6,6 @@
   src: url(fonts/Nexa-Light.otf);
 }
 
-@font-face {
-  font-family: Nexa-Bold;
-  src: url(Nexa-Bold.woff2);
-}
-
 .noise {
   z-index: -1;
   position: fixed;
