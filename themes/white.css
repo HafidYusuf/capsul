@@ -272,3 +272,7 @@ button:hover {
 .comparing {
   opacity: .3!important;
 }
+
+.currency-converter-currency-button-text{
+  color: white!important;
+}
