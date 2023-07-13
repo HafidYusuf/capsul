@@ -6,6 +6,9 @@ body {
   background-color: var(--back-color);
   color: var(--primary-color);
 }
+.menus a {
+  color: white
+}
 
 .the-collection::-webkit-scrollbar {
   height: 8px;
