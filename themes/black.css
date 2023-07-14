@@ -6,7 +6,7 @@ body {
   background-color: var(--back-color);
   color: var(--primary-color);
 }
-.menus a, .blog a, .blog h2 {
+.menus a, .blog p, .blog h2 {
   color: white!important;
 }
 
