@@ -1754,7 +1754,7 @@ form button:hover {
 }
 
 .cart-product img {
-  width: 150px;
+  width: 135px;
   display: inline-block;
 }
 
@@ -1767,7 +1767,7 @@ form button:hover {
 }
 
 .cart-product .cart-description .cart-name {
-  font-size: 14pt;
+  font-size: 10pt;
   margin-bottom: 15px;
   text-transform: uppercase;
 }
