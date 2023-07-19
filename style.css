@@ -104,7 +104,7 @@ p,
 a,
 div,
 span {
-  font-family: 'Nexa-Light', sans-serif;;
+  font-family: 'Nexa-Light', sans-serif; font-weight: bold;
 }
 /*
 input {
