@@ -1697,12 +1697,12 @@ form button:hover {
 }
 
 .cart p {
-  font-size: 32pt;
+  font-size: 24pt;
   float: left;
 }
 
 .cart p span {
-  font-size: 18pt;
+  font-size: 12pt;
   color: #fc5a1a;
   margin-left: 15px;
 }
@@ -1834,7 +1834,7 @@ form button:hover {
   bottom: 0px;
   margin-left: -30px;
   text-align: center;
-  font-size: 16pt;
+  font-size: 12pt;
   padding: 20px 0px;
 }
 .checkout:hover {
