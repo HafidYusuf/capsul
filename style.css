@@ -673,7 +673,7 @@ form input {
   width: 500px;
   border-top: solid 2px #ffffff;
   border-bottom: solid 2px #ffffff;
-  font-size: 12pt;
+  font-size: 10pt;
   padding: 20px 0px;
   color: #ffffff;
 }
@@ -685,7 +685,7 @@ form button {
   border-top: solid 2px #ffffff;
   border-bottom: solid 2px #ffffff;
   border-left: solid 2px #ffffff;
-  font-size: 12pt;
+  font-size: 10pt;
   width: 150px;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
