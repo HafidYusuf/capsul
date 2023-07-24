@@ -356,11 +356,11 @@ nav .logo {
   left: 50%;
   right: 0;
   top: 45vh;
-  -webkit-transform: translate(-47%, -50%);
   transform: translate(-47%, -50%);
+  -webkit-transform: translate(-47%, -50%);
   width: 70vw;
-  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
   transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 /*
 .inikb {
@@ -442,11 +442,11 @@ nav .logo-sticky {
   left: 96px;
   right: 0;
   top: 40px;
-  -webkit-transform: translate(0px, 0px);
   transform: translate(0px, 0px);
+  -webkit-transform: translate(0px, 0px);
   width: 100px;
-  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
   transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 
 nav .right-side {
