@@ -1302,12 +1302,12 @@ form button:hover {
   transform: translateY(-50%);
 }
 
-.overlay-igation .menu .submenu {
+.overlay-navigation .menu .submenu {
   margin-left: 30px;
   margin-bottom: 20px;
 }
 
-.overlay-igation .menu a {
+.overlay-navigation .menu a {
   display: block;
   color: white;
   font-family: Nexa-Bold;
