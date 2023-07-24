@@ -130,7 +130,7 @@ h1:before {
 }
 
 h2 {
-  font-size: 14pt;
+  font-size: 12pt;
   margin-top: 40px;
 }
 
@@ -470,7 +470,7 @@ nav .right-side .nav-icon {
 .headline-button {
   background: #fc5a1a;
   font-family: Nexa-Bold;
-  font-size: 14pt;
+  font-size: 12pt;
   padding: 20px 40px;
   text-align: center;
   margin: 0 auto;
@@ -826,7 +826,7 @@ form button:hover {
 
 .product .desc .name {
   color: #ffffff;
-  font-size: 14pt;
+  font-size: 12pt;
   height: 46px;
   margin: 15px 0px;
   display: -webkit-box;
@@ -1215,7 +1215,7 @@ form button:hover {
 }
 
 .member h3 {
-  font-size: 24pt;
+  font-size: 18pt;
   text-align: center;
 }
 
@@ -1312,7 +1312,7 @@ form button:hover {
   color: white;
   font-family: Nexa-Bold;
   text-decoration: none;
-  font-size: 24pt;
+  font-size: 14pt;
   margin-top: 5px;
   opacity: 0.5;
 }
@@ -1338,7 +1338,7 @@ form button:hover {
 .overlay-navigation .the-product a {
   color: #fc5a1a;
   display: block;
-  font-size: 16pt;
+  font-size: 12pt;
   text-decoration: none;
   margin-top: 5px;
   text-transform: uppercase;
@@ -1542,16 +1542,16 @@ form button:hover {
 
 @media screen and (max-width: 560px) {
   .overlay-navigation .menu a {
-    font-size: 24pt;
+    font-size: 14pt;
   }
   .marquee-scrolling {
     font-size: 14pt;
   }
   form input {
-    font-size: 12pt;
+    font-size: 10pt;
   }
   form button {
-    font-size: 12pt;
+    font-size: 10pt;
     padding: 20px 20px;
   }
   .menu-footer {
@@ -1620,7 +1620,7 @@ form button:hover {
   position: relative;
   padding-left: 35px;
   margin-bottom: 12px;
-  font-size: 12pt;
+  font-size: 10pt;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
@@ -1697,12 +1697,12 @@ form button:hover {
 }
 
 .cart p {
-  font-size: 24pt;
+  font-size: 14pt;
   float: left;
 }
 
 .cart p span {
-  font-size: 12pt;
+  font-size: 10pt;
   color: #fc5a1a;
   margin-left: 15px;
 }
@@ -1971,10 +1971,10 @@ form button:hover {
     box-sizing: border-box;
   }
   .cart p {
-    font-size: 24pt;
+    font-size: 14pt;
   }
   .cart p span {
-    font-size: 12pt;
+    font-size: 10pt;
   }
   .cart-product {
     width: 100%;
@@ -1990,7 +1990,7 @@ form button:hover {
     width: 60%;
   }
   .cart-product .cart-description .cart-name {
-    font-size: 14pt;
+    font-size: 10pt;
     margin-bottom: 10px;
   }
   .cart-product .cart-description .cart-price {
@@ -2076,7 +2076,7 @@ form button:hover {
 }
 
 .detail-description .name {
-  font-size: 32pt;
+  font-size: 18pt;
   margin-bottom: 20px;
   text-transform: uppercase;
 }
@@ -2110,7 +2110,7 @@ form button:hover {
 .detail-description label {
   display: inline-block;
   font-weight: bold;
-  font-size: 13;
+  font-size: 10pt;
   padding: 10px 20px;
 }
 
@@ -2188,7 +2188,7 @@ form button:hover {
     margin-top: 50px;
   }
   .detail-description .name {
-    font-size: 24pt;
+    font-size: 18pt;
   }
 }
 
