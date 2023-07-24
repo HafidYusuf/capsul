@@ -1235,20 +1235,21 @@ form button:hover {
   width: 60%;
   display: inline-block;
   vertical-align: top;
-  font-size: 14pt;
+  font-size: 12pt;
   line-height: 20pt;
   letter-spacing: 1px;
 }
 
 .about .stuff span {
-  font-family: Nexa-Bold;
+  font-family: Nexa-Light!important;
+  font-weight: bold!important;
 }
 
 .about .stuff span::after {
   content: "©";
   vertical-align: super;
   font-size: 8pt;
-  font-family: Nexa;
+  font-family: Nexa-Light;
 }
 
 @media screen and (max-width: 720px) {
