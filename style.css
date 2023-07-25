@@ -445,20 +445,17 @@ nav .forabout {
 }
 
 nav .logo-sticky {
-  left: 96px;
   right: 0;
   top: 40px;
-  transform: translate(0px, 0px);
-  -webkit-transform: translate(0px, 0px);
-  -moz-transform: translate(0px, 0px);
-  -ms-transform: translate(0px, 0px);
-  -o-transform: translate(0px, 0px);
   width: 100px;
-  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  -webkit-transform: translate(-35%, 0px);
+  -moz-transform: translate(-35%, 0px);
+  -o-transform: translate(-35%, 0px)!important;
+  transform: translate(-35%, 0px)!important;
   -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
   -moz-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
-  -ms-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
   -o-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 
 nav .right-side {
