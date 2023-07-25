@@ -1516,6 +1516,8 @@ form button:hover {
   }
   nav .logo-sticky {
     left: 5%;
+    -webkit-transform: translate(0px, 0px);
+    transform: translate(0px, 0px);
   }
   .collection-display {
     width: calc(100% + 11%);
