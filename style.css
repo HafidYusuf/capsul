@@ -353,50 +353,23 @@ nav {
 nav .logo {
   color: white;
   position: absolute;
-  left: 50%;
+  left: 17%;
   right: 0;
   top: 45vh;
+  /*
   transform: translate(-47%, -50%);
   -webkit-transform: translate(-47%, -50%);
   -moz-transform: translate(-47%, -50%);
   -ms-transform: translate(-47%, -50%);
   -o-transform: translate(-47%, -50%);
+  */
   width: 70vw;
-  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
   -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
   -moz-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
   -ms-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
   -o-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
+  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
-/*
-.inikb {
-  fill: blue!important;
-}
-.inic {
-  fill: purple!important;
-}
-.inia {
-  fill: aqua!important;
-}
-.inip {
-  fill: crimson!important;
-}
-.inis {
-  fill: red!important;
-}
-.iniu {
-  fill: green!important;
-}
-.inil {
-  fill: grey!important;
-}
-.inikt {
-  fill: yellow!important;
-}
-.inim {
-  fill: brown!important;
-}
-*/
 
 
 nav .logo-sticky .inia {
@@ -446,16 +419,9 @@ nav .forabout {
 
 nav .logo-sticky {
   right: 0;
+  left: 47.6px;
   top: 40px;
   width: 100px;
-  -webkit-transform: translate(-35%, 0px);
-  -moz-transform: translate(-35%, 0px);
-  -o-transform: translate(-35%, 0px)!important;
-  transform: translate(-35%, 0px)!important;
-  -webkit-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
-  -moz-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
-  -o-transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
-  transition: all 0.5s cubic-bezier(0, 0.55, 0.45, 1);
 }
 
 nav .right-side {
