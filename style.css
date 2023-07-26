@@ -419,9 +419,10 @@ nav .forabout {
 
 nav .logo-sticky {
   right: 0;
-  left: 47.6px;
+  left: 47.6%;
   top: 40px;
   width: 100px;
+  position: relative;
 }
 
 nav .right-side {
