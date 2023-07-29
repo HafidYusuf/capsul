@@ -1307,15 +1307,15 @@ form button:hover {
   content: " ]";
 }
 
-.menur a:hover {
+.menus a:hover {
   opacity: 1;
 }
 
-.menur a:hover::before {
+.menus a:hover::before {
   content: "[ ";
 }
 
-.menur a:hover::after {
+.menus a:hover::after {
   content: " ]";
 }
 
