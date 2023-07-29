@@ -1307,11 +1307,11 @@ form button:hover {
   content: " ]";
 }
 
-.menus a span, .menus a div:hover::before {
+.menus a span:hover::before, .menus a div:hover::before {
   content: "[ ";
 }
 
-.menus a span, .menus a div:hover::after {
+.menus a span:hover::after, .menus a div:hover::after {
   content: " ]";
 }
 
