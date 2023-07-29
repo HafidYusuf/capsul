@@ -1307,6 +1307,18 @@ form button:hover {
   content: " ]";
 }
 
+.menur a:hover {
+  opacity: 1;
+}
+
+.menur a:hover::before {
+  content: "[ ";
+}
+
+.menur a:hover::after {
+  content: " ]";
+}
+
 .overlay-navigation .the-product {
   position: absolute;
   bottom: 50px;
