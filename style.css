@@ -2068,6 +2068,12 @@ form button:hover {
   font-size: 14pt;
   margin-bottom: 20px;
   text-transform: uppercase;
+  opacity: 1 !important;
+  -webkit-transform: translateY(0) !important;
+  transform: translateY(0) !important;
+}
+.detail-description .name:after {
+  display: none;
 }
 
 .detail-description .price {
