@@ -2071,8 +2071,9 @@ form button:hover {
   opacity: 1 !important;
   -webkit-transform: translateY(0) !important;
   transform: translateY(0) !important;
+  font-family: Nexa-Light;
 }
-.detail-description .name:after {
+.detail-description .name::before {
   display: none;
 }
 
