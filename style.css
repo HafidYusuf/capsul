@@ -2476,7 +2476,6 @@ form button:hover {
 }
 .custom-page .about {
   padding: 0 8em;
-  min-height: 100vh;
   padding-top: 150px;
 }
 @media screen and (max-width: 750px) {
@@ -2527,7 +2526,6 @@ form button:hover {
   }
 }
 .custom-page .about-wrapper-description {
-  height: 85vh;
   display: flex;
   flex-direction: column;
 }
@@ -2555,7 +2553,7 @@ form button:hover {
 .custom-page .about-wrapper-description p {
   flex: 1;
   line-height: 1.8;
-  padding-bottom: 50px;
+  padding-bottom: 150px;
 }
 
 /* CART */
