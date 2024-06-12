@@ -344,6 +344,7 @@ nav {
   transition: all 1s ease-out;
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
+  margin-top: 40px;
 }
 .nav-bg-scroll {
   background-position: 0% 0%!important;
