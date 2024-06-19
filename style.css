@@ -339,7 +339,7 @@ nav {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#000000",endColorstr="#000000",GradientType=1);
   background-size: 100% 200%;
   background-position: 0% 100%;
-  z-index: 9999;
+  z-index: 999;
   padding: 40px 0px;
   transition: all 1s ease-out;
   -webkit-box-sizing: border-box;
