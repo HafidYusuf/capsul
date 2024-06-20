@@ -1,0 +1,21 @@
+<html>
+  <head>
+    CAPSUL Chatbot Testing
+  </head>
+  <body>
+    <h1 style="text-align: center; margin-top: 30%">This is CAPSUL CHATBOT Testing</h1>
+    <script type="text/javascript">
+      (function(d, t) {
+          var v = d.createElement(t), s = d.getElementsByTagName(t)[0];
+          v.onload = function() {
+            window.voiceflow.chat.load({
+              verify: { projectID: '667267ede28223fce8f399ca' },
+              url: 'https://general-runtime.voiceflow.com',
+              versionID: 'production'
+            });
+          }
+          v.src = "https://cdn.voiceflow.com/widget/bundle.mjs"; v.type = "text/javascript"; s.parentNode.insertBefore(v, s);
+      })(document, 'script');
+    </script>
+  </body>
+</html>
