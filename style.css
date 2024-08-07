@@ -1303,19 +1303,19 @@ form button:hover {
 }
 
 .overlay-navigation .menu a:hover::before {
-  content: "[ ";
+  content: "[";
 }
 
 .overlay-navigation .menu a:hover::after {
-  content: " ]";
+  content: "]";
 }
 
 .menus a:hover span::before, .menus a div:hover::before {
-  content: "[ ";
+  content: "[";
 }
 
 .menus a:hover span::after, .menus a div:hover::after {
-  content: " ]";
+  content: "]";
 }
 
 .overlay-navigation .the-product {
