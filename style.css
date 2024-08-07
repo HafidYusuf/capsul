@@ -1219,7 +1219,6 @@ form button:hover {
   vertical-align: top;
   font-size: 12pt;
   line-height: 20pt;
-  letter-spacing: 1px;
 }
 
 .about .stuff span {
@@ -2083,7 +2082,7 @@ form button:hover {
 
 .detail-description .price {
   font-family: Nexa-Bold;
-  font-size: 18pt;
+  font-size: 14pt;
   margin-bottom: 20px;
 }
 .detail-description .check p {
@@ -2092,6 +2091,8 @@ form button:hover {
 
 .detail-description .description {
   line-height: 150%;
+  font-size: 10pt;
+  letter-spacing: -0.5px;
 }
 
 .detail-description input[type="radio"]:checked + label {
