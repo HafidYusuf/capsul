@@ -7,7 +7,7 @@
 }
 @font-face {
   font-family: Nexa-Light;
-  src: url(https://fonts.googleapis.com/css2?family=Share+Tech+Mono&display=swap);
+  src: url(https://cdn.shopify.com/s/files/1/0596/6479/3783/files/Nexa-ExtraLight.ttf?v=1688923803);
 }
 
 .noise {
@@ -104,7 +104,7 @@ p,
 a,
 div,
 span {
-  font-family: 'Nexa-Light', sans-serif; font-weight: bold;
+  font-family: "Share Tech Mono", monospace;
 }
 /*
 input {
@@ -1220,7 +1220,7 @@ form button:hover {
 }
 
 .about .stuff span {
-  font-family: Nexa-Light!important;
+  font-family: "Share Tech Mono"!important;
   font-weight: bold!important;
 }
 
@@ -1228,7 +1228,7 @@ form button:hover {
   content: "©";
   vertical-align: super;
   font-size: 8pt;
-  font-family: Nexa-Light;
+  font-family: "Share Tech Mono", monospace;
 }
 
 @media screen and (max-width: 720px) {
@@ -2072,7 +2072,7 @@ form button:hover {
   opacity: 1 !important;
   -webkit-transform: translateY(0) !important;
   transform: translateY(0) !important;
-  font-family: Nexa-Light;
+  font-family: "Share Tech Mono", monospace;
 }
 .detail-description .name::before {
   display: none;
