@@ -2068,7 +2068,7 @@ form button:hover {
 }
 
 .detail-description .name {
-  font-size: 14pt;
+  font-size: 12pt;
   margin-bottom: 20px;
   text-transform: uppercase;
   opacity: 1 !important;
@@ -2082,11 +2082,11 @@ form button:hover {
 
 .detail-description .price {
   font-family: Nexa-Bold;
-  font-size: 14pt;
+  font-size: 12pt;
   margin-bottom: 20px;
 }
 .detail-description .price span{
-  font-size: 10pt;
+  font-size: 12pt;
 }
 .detail-description .check p {
   text-transform: uppercase;
