@@ -485,7 +485,7 @@ nav .right-side .nav-icon {
   height: 100vh;
   position: relative;
 }
-.opacity5 .video {
+.opacity5 video {
   position: absolute;
   object-fit: cover;
   object-position: 0px 25%;
