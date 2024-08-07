@@ -645,7 +645,7 @@ form {
 }
 
 form input {
-  font-family: 'Overpass', sans-serif;
+  font-family: "Share Tech Mono", monospace;
   border: none;
   background: transparent;
   width: 500px;
@@ -904,7 +904,7 @@ form button:hover {
   color: #ffffff;
   display: inline-block;
   letter-spacing: 1px;
-  font-family: Overpass;
+  font-family: "Share Tech Mono", monospace;
 }
 
 .product-wide:hover .desc . {
@@ -1618,7 +1618,7 @@ form button:hover {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-  font-family: 'Overpass', sans-serif;
+  font-family: "Share Tech Mono", monospace;
   margin-bottom: 50px;
 }
 
@@ -2599,7 +2599,7 @@ form button:hover {
   transform: unset;
 }
 .shopify-challenge__button.btn {
-  font-family: 'Overpass', sans-serif;
+  font-family: "Share Tech Mono", monospace;
   border: none;
   background: transparent;
   width: 500px;
@@ -2643,7 +2643,7 @@ form button:hover {
 }
 .caption h4.caption-description {
   font-weight: normal;
-  font-family: Overpass;
+  font-family: "Share Tech Mono", monospace;
   width: 600px;
   font-size: 12pt;
 }
