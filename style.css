@@ -898,12 +898,13 @@ form button:hover {
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   text-transform: uppercase;
+  text-align: center;
 }
 
 .product-wide .desc .price {
   font-size: 10pt;
   color: #ffffff;
-  display: inline-block;
+  text-align: center;
   letter-spacing: 1px;
   font-family: "Share Tech Mono", monospace;
 }
