@@ -893,7 +893,7 @@ form button:hover {
 
 .product-wide .desc .name {
   color: #ffffff;
-  font-size: 10pt;
+  font-size: 9pt;
   margin: 15px 0px;
   display: -webkit-box;
   -webkit-line-clamp: 3;
@@ -903,7 +903,7 @@ form button:hover {
 }
 
 .product-wide .desc .price {
-  font-size: 10pt;
+  font-size: 9pt;
   color: #ffffff;
   text-align: center;
   letter-spacing: 1px;
