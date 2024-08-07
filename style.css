@@ -2075,6 +2075,7 @@ form button:hover {
   -webkit-transform: translateY(0) !important;
   transform: translateY(0) !important;
   font-family: "Share Tech Mono", monospace;
+  font-weight: normal;
 }
 .detail-description .name::before {
   display: none;
