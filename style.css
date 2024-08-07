@@ -657,7 +657,7 @@ form input {
 }
 
 form button {
-  font-family: Nexa-Bold;
+  font-family: "Share Tech Mono", monospace;
   border: none;
   background: transparent;
   border-top: solid 2px #ffffff;
