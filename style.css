@@ -802,6 +802,9 @@ form button:hover {
   padding-bottom: 10px;
 /*   border-bottom: solid 1px rgba(255, 255, 255, 0.2); */
 }
+.product .desc div{
+  text-align: center;
+}
 
 .product .desc .name {
   color: #ffffff;
