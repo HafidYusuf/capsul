@@ -2085,6 +2085,9 @@ form button:hover {
   font-size: 14pt;
   margin-bottom: 20px;
 }
+.detail-description .price span{
+  font-size: 10pt;
+}
 .detail-description .check p {
   text-transform: uppercase;
 }
