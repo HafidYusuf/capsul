@@ -1575,7 +1575,7 @@ form button:hover {
   }
   .product,
   .product-wide {
-    width: 100% !important;
+    width: 47.5% !important;
     display: block !important;
   }
   .product .img-container,
@@ -1589,7 +1589,7 @@ form button:hover {
     top: 0;
   }
   .product-wide {
-    margin-bottom: 50px;
+    margin-bottom: -60px;
   }
   .product-more {
     margin-top: 0px;
