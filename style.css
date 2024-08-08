@@ -1575,8 +1575,8 @@ form button:hover {
   }
   .product,
   .product-wide {
-    width: 47% !important;
-    display: block !important;
+    width: 47.5% !important;
+    display: inline-block !important;
   }
   .product .img-container,
   .product-wide .img-container {
