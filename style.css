@@ -633,7 +633,7 @@ video {
 
 .join span {
   font-family: Nexa-Bold;
-  font-size: 30pt;
+  font-size: 24pt;
 }
 
 form {
@@ -1408,6 +1408,9 @@ form button:hover {
     top: auto;
     -webkit-transform: translateY(0px);
     transform: translateY(0px);
+  }
+  .join span {
+    font-size: 18pt;
   }
   form {
     position: relative;
