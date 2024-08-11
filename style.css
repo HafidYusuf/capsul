@@ -196,7 +196,7 @@ h2 {
 
 .spotify-playlist {
   position: fixed;
-  right: -350px;
+  left: -350px;
   top: 0px;
   width: 350px;
   height: 100vh;
