@@ -1958,7 +1958,7 @@ form button:hover {
   }
   .spotify-playlist {
     width: calc(100% - 51px);
-    right: -365px;
+    left: -365px;
   }
   .cart {
     padding: 5%;
