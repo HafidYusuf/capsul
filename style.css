@@ -209,8 +209,8 @@ h2 {
   position: fixed;
   top: 0px;
   bottom: 0px;
-  right: -51px;
-  left: auto;
+  left: -51px;
+  right: auto;
   width: 40px;
   padding-left: 7px;
   font-size: 18pt;
