@@ -169,7 +169,6 @@ h2 {
 
 .spotify {
   position: fixed;
-  left: auto;
   right: 100px;
   bottom: 10%;
   z-index: 9999999;
