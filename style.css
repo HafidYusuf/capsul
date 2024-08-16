@@ -2867,3 +2867,6 @@ form button:hover {
   margin-top: -10px;
   margin-bottom: 40px!important;
 }
+.comparing span{
+  text-decoration: line-through !important;
+}
