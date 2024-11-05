@@ -615,7 +615,7 @@ video {
 
 .subscribe {
   position: relative;
-  height: 250px;
+  height: 150px;
 }
 
 .join {
@@ -1447,7 +1447,7 @@ form button:hover {
     width: 100%;
   }
   .subscribe {
-    margin-top: 100px;
+    margin-top: 0px;
   }
   .second-justifying {
     width: calc(100%-100px);
